@@ -1,5 +1,11 @@
 # DOCUMENTAÇÃO
 
+### Autores
+
+Danilo Aparecido Namitala - 202011125
+
+Fabrício de Oliveira Carvalho - 201910388
+
 ### Sumário
 
 * [Criação do App](#Criação-do-App)
